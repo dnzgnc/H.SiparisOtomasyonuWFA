@@ -1,0 +1,13 @@
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\bin\Debug\OOP_HamburgerOtomasyonu.exe.config
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\bin\Debug\OOP_HamburgerOtomasyonu.exe
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\bin\Debug\OOP_HamburgerOtomasyonu.pdb
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.EkstraMalzeme.resources
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.Form1.resources
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.Properties.Resources.resources
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.SiparisBilgileri.resources
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.SiparisOlustur.resources
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.UrunEkle.resources
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.exe
+C:\Users\Deniz\Source\Repos\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.pdb
